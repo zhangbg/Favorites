@@ -24,13 +24,22 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/#center-horizontally)
 - [Absolute Horizontal And Vertical Centering In CSS](https://www.smashingmagazine.com/2013/08/absolute-horizontal-vertical-centering-css/)
 
+### 框架
+- [Awesome Vue.js](https://github.com/vuejs/awesome-vue#appswebsites)
+
+
 ### 工具
 - [webpack-howto](https://github.com/petehunt/webpack-howto#5-stylesheets-and-images)
 - [值得订阅的 12 份优质前端期刊](https://www.h5jun.com/post/the-12-best-weekly.html)
-
+- [eslint-pre-commit做代码检查](http://lili21.github.io/2016/05/23/eslint-pre-commit%E5%81%9A%E4%BB%A3%E7%A0%81%E6%A3%80%E6%9F%A5/)
 
 ### 其他
 - [近几年前端技术盘点以及 2016 年技术发展方向](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
+- [js-interview-review(面试)](https://github.com/adam-s/js-interview-review)
+- [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+
+## http协议及缓存
+- [Caching Tutorial ](https://www.mnot.net/cache_docs/)
 
 
 ## 移动端
