@@ -11,11 +11,14 @@
 
 ### 前端技术栈
 - [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
+- [web developer roadmap 2017](https://github.com/kamranahmedse/developer-roadmap)
+
 
 ### Javascript
 - [Top JavaScript Frameworks & Topics to Learn in 2017](https://medium.com/javascript-scene/top-javascript-frameworks-topics-to-learn-in-2017-700a397b711)
 - [10 Interview Questions
 Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-interview-questions-every-javascript-developer-should-know-6fa6bdf5ad95)
+- [聊聊未来的前端时代](http://jixianqianduan.com/frontend-javascript/2016/12/11/future-front-end.html)
 
 ### css
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/#center-horizontally)
@@ -29,13 +32,22 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 ### 其他
 - [近几年前端技术盘点以及 2016 年技术发展方向](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
 
-### 书籍
-- [Front-End Developer Handbook 2017](https://www.frontendhandbook.com/what-is-a-FD.html)
-- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+
+## 移动端
+
+### 小程序
+- [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
+- [微信小应用资源汇总整理](https://github.com/Aufree/awesome-wechat-weapp)
 
 
 ## 设计
-- [13个提高「进度条」用户体验的设计技巧](http://mp.weixin.qq.com/s?__biz=MzAwNjM0MzIzNA==&mid=2650319018&idx=2&sn=2ee86e5de3ecabde8e73eb33bd7c9129&scene=0#wechat_redirect)
+- [13个提高「进度条」用户体验的设计技巧](http://www.uisdc.com/improve-progress-bar-ux-design)
+- [人气推荐：30枚飙升你创造力的网页设计](http://www.uisdc.com/30-websites-large-background)
+
+## 书籍
+- [Front-End Developer Handbook 2017](https://www.frontendhandbook.com/what-is-a-FD.html)
+- [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+- [高效能程序员的修炼](http://pan.baidu.com/s/1bo5HnSN)
 
 ## 入口
 ### 前端
@@ -63,3 +75,4 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 
 ### 好文&闲逛
 - [medium](https://medium.com/)
+- [我为什么鼓励工程师写博客](http://blog.jobbole.com/110769/)
