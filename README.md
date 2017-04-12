@@ -57,6 +57,11 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [Front-End Developer Handbook 2017](https://www.frontendhandbook.com/what-is-a-FD.html)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
 - [高效能程序员的修炼](http://pan.baidu.com/s/1bo5HnSN)
+- [Docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
+
+## 其他
+- [基于 Gitlab CI 搭建持续集成环境](https://juejin.im/entry/589d39fe0ce46300562ae22e)
+- [用 GitLab CI 进行持续集成](https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/)
 
 ## 入口
 ### 前端
