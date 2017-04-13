@@ -23,6 +23,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 ### css
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/#center-horizontally)
 - [Absolute Horizontal And Vertical Centering In CSS](https://www.smashingmagazine.com/2013/08/absolute-horizontal-vertical-centering-css/)
+- [Absolute Centering](http://codepen.io/libill/full/vmYRZK/)
 
 ### 框架
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue#appswebsites)
@@ -56,6 +57,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 ## 书籍
 - [Front-End Developer Handbook 2017](https://www.frontendhandbook.com/what-is-a-FD.html)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
+- [javascript-info](http://javascript.info/)
 - [高效能程序员的修炼](http://pan.baidu.com/s/1bo5HnSN)
 - [Docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
 
