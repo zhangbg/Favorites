@@ -28,6 +28,9 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 ### 框架
 - [Awesome Vue.js](https://github.com/vuejs/awesome-vue#appswebsites)
 
+### Nodejs
+- [Font-Awesome-To-SVG-PNG](https://github.com/zhangbg/Font-Awesome-SVG-PNG)
+
 
 ### 工具
 - [webpack-howto](https://github.com/petehunt/webpack-howto#5-stylesheets-and-images)
@@ -39,9 +42,8 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [js-interview-review(面试)](https://github.com/adam-s/js-interview-review)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
-## http协议及缓存
-- [Caching Tutorial ](https://www.mnot.net/cache_docs/)
-
+## 桌面端或浏览器
+- [How to View the Source Code of a Chrome Extension](https://www.howtogeek.com/198964/how-to-view-the-source-code-of-a-chrome-extension/)
 
 ## 移动端
 
@@ -49,8 +51,12 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - [微信小应用资源汇总整理](https://github.com/Aufree/awesome-wechat-weapp)
 
+## http协议及缓存
+- [Caching Tutorial ](https://www.mnot.net/cache_docs/)
 
 ## 设计
+
+### 经验
 - [13个提高「进度条」用户体验的设计技巧](http://www.uisdc.com/improve-progress-bar-ux-design)
 - [人气推荐：30枚飙升你创造力的网页设计](http://www.uisdc.com/30-websites-large-background)
 
@@ -86,6 +92,8 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [Div.IO高质量前端资源汇聚](http://div.io)
 
 ### 设计
+- [themeforest](https://themeforest.net/)
+- [UI中国](http://www.ui.cn/)
 - [美啊-见证设计的力量](https://meia.me/)
 
 
