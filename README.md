@@ -26,7 +26,10 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [Absolute Centering](http://codepen.io/libill/full/vmYRZK/)
 
 ### 框架
-- [Awesome Vue.js](https://github.com/vuejs/awesome-vue#appswebsites)
++ Vue
+ - [Awesome Vue.js](https://github.com/vuejs/awesome-vue#appswebsites)
+ - [用vue 和 SUI-Mobile 写了一个移动端demo](https://github.com/eteplus/vue-sui-demo)
+ - [我们为什么选择Vue.js而不是React](http://www.infoq.com/cn/news/2016/12/why-Vue-js-no-react)
 
 ### Nodejs
 - [Font-Awesome-To-SVG-PNG](https://github.com/zhangbg/Font-Awesome-SVG-PNG)
@@ -80,6 +83,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [掘金翻译计划: gold-miner](https://github.com/xitu/gold-miner/blob/master/README.md)
 - [掘金翻译计划: 前端](https://github.com/xitu/gold-miner/blob/master/front-end.md)
 - [medium: javascript-scene](https://medium.com/javascript-scene)
+- [freecodecamp](https://www.freecodecamp.com/)
 
 ### 前端博客
 - [AlloyTeam | 腾讯全端 AlloyTeam 团队 Blog](http://www.alloyteam.com/page/0/)
