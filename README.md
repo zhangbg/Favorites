@@ -45,6 +45,16 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [js-interview-review(面试)](https://github.com/adam-s/js-interview-review)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
 
+### 深度阅读
++ 组件化
+ - [组件化设计与开发](http://colachan.com/post/3545)
+ - [前端组件化开发实践](http://tech.meituan.com/frontend-component-practice.html)
+ - [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
+
++ 前端工程
+ - [前端工程](https://github.com/fouber/blog/blob/master/201505/01.md)
+
+
 ## 桌面端或浏览器
 - [How to View the Source Code of a Chrome Extension](https://www.howtogeek.com/198964/how-to-view-the-source-code-of-a-chrome-extension/)
 
@@ -97,11 +107,13 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [搜车大无线团队博客](http://f2e.souche.com/blog/)
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
 - [Div.IO高质量前端资源汇聚](http://div.io)
+- [张云龙-个人前端blog](https://github.com/fouber/blog)
 
 ### 设计
 - [themeforest](https://themeforest.net/)
 - [UI中国](http://www.ui.cn/)
 - [美啊-见证设计的力量](https://meia.me/)
+- [可乐橙](http://colachan.com/post/3545)
 
 ### IT类文章
 - [全面了解Docker](https://github.com/DeanXu/Docker-introduce/blob/master/README.md)
