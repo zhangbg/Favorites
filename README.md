@@ -50,6 +50,10 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
  - [组件化设计与开发](http://colachan.com/post/3545)
  - [前端组件化开发实践](http://tech.meituan.com/frontend-component-practice.html)
  - [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
+ - [前端组件化的认识](http://chping.website/2016/11/04/%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%8C%96%E7%9A%84%E8%AE%A4%E8%AF%86/)
+ - [漫谈Web前端的『组件化』](http://leeluolee.github.io/fequan-netease/#/)
+ - [致我们终将组件化的Web](http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/)
+
 
 + 前端工程
  - [前端工程](https://github.com/fouber/blog/blob/master/201505/01.md)
@@ -82,6 +86,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [javascript-info](http://javascript.info/)
 - [高效能程序员的修炼](http://pan.baidu.com/s/1bo5HnSN)
 - [Docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
+- [build-your-own-angular](http://teropa.info/build-your-own-angular/)
 
 ## 其他
 - [基于 Gitlab CI 搭建持续集成环境](https://juejin.im/entry/589d39fe0ce46300562ae22e)
@@ -106,8 +111,10 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [极限前端](http://jixianqianduan.com/)
 - [搜车大无线团队博客](http://f2e.souche.com/blog/)
 - [阮一峰的网络日志](http://www.ruanyifeng.com/blog/archives.html)
-- [Div.IO高质量前端资源汇聚](http://div.io)
+- [**Div.IO高质量前端资源汇聚**](http://div.io)
 - [张云龙-个人前端blog](https://github.com/fouber/blog)
+- [xufei-blog](https://github.com/xufei/blog)
+- [前端圈](https://fequan.com/)
 
 ### 设计
 - [themeforest](https://themeforest.net/)
