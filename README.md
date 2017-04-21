@@ -26,6 +26,8 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [Absolute Centering](http://codepen.io/libill/full/vmYRZK/)
 
 ### 框架
++ AngularJs
+	- [angularjs-styleguide](https://github.com/toddmotto/angularjs-styleguide)
 + Vue
 	- [Awesome Vue.js](https://github.com/vuejs/awesome-vue#appswebsites)
 	- [用vue 和 SUI-Mobile 写了一个移动端demo](https://github.com/eteplus/vue-sui-demo)
@@ -53,10 +55,13 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 	- [前端组件化的认识](http://chping.website/2016/11/04/%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%8C%96%E7%9A%84%E8%AE%A4%E8%AF%86/)
 	- [漫谈Web前端的『组件化』](http://leeluolee.github.io/fequan-netease/#/)
 	- [致我们终将组件化的Web](http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/)
+	- [用Angular 1.x做组件式开发](http://pinkyjie.com/2016/01/31/component-based-development-with-angular-1x/)
 
 
 + 前端工程
  - [前端工程](https://github.com/fouber/blog/blob/master/201505/01.md)
+ - [前端工程——基础篇](https://github.com/fouber/blog/blob/master/201508/01.md#)
+ - [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 
 
 ## 桌面端或浏览器
@@ -87,10 +92,12 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [高效能程序员的修炼](http://pan.baidu.com/s/1bo5HnSN)
 - [Docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
 - [build-your-own-angular](http://teropa.info/build-your-own-angular/)
+- [Web Component Architecture & Development with AngularJS](https://leanpub.com/web-component-development-with-angularjs/read)
 
 ## 其他
 - [基于 Gitlab CI 搭建持续集成环境](https://juejin.im/entry/589d39fe0ce46300562ae22e)
 - [用 GitLab CI 进行持续集成](https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/)
+- [git change author info](https://help.github.com/articles/changing-author-info/#platform-windows)
 
 ## 入口
 ### 前端
