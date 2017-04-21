@@ -27,9 +27,9 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 
 ### 框架
 + Vue
- - [Awesome Vue.js](https://github.com/vuejs/awesome-vue#appswebsites)
- - [用vue 和 SUI-Mobile 写了一个移动端demo](https://github.com/eteplus/vue-sui-demo)
- - [我们为什么选择Vue.js而不是React](http://www.infoq.com/cn/news/2016/12/why-Vue-js-no-react)
+	- [Awesome Vue.js](https://github.com/vuejs/awesome-vue#appswebsites)
+	- [用vue 和 SUI-Mobile 写了一个移动端demo](https://github.com/eteplus/vue-sui-demo)
+	- [我们为什么选择Vue.js而不是React](http://www.infoq.com/cn/news/2016/12/why-Vue-js-no-react)
 
 ### Nodejs
 - [Font-Awesome-To-SVG-PNG](https://github.com/zhangbg/Font-Awesome-SVG-PNG)
@@ -47,12 +47,12 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 
 ### 深度阅读
 + 组件化
- - [组件化设计与开发](http://colachan.com/post/3545)
- - [前端组件化开发实践](http://tech.meituan.com/frontend-component-practice.html)
- - [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
- - [前端组件化的认识](http://chping.website/2016/11/04/%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%8C%96%E7%9A%84%E8%AE%A4%E8%AF%86/)
- - [漫谈Web前端的『组件化』](http://leeluolee.github.io/fequan-netease/#/)
- - [致我们终将组件化的Web](http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/)
+	- [组件化设计与开发](http://colachan.com/post/3545)
+	- [前端组件化开发实践](http://tech.meituan.com/frontend-component-practice.html)
+	- [2015前端组件化框架之路](https://github.com/xufei/blog/issues/19)
+	- [前端组件化的认识](http://chping.website/2016/11/04/%E5%89%8D%E7%AB%AF%E7%BB%84%E4%BB%B6%E5%8C%96%E7%9A%84%E8%AE%A4%E8%AF%86/)
+	- [漫谈Web前端的『组件化』](http://leeluolee.github.io/fequan-netease/#/)
+	- [致我们终将组件化的Web](http://www.alloyteam.com/2015/11/we-will-be-componentized-web-long-text/)
 
 
 + 前端工程
