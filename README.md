@@ -24,6 +24,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [Centering in CSS: A Complete Guide](https://css-tricks.com/centering-css-complete-guide/#center-horizontally)
 - [Absolute Horizontal And Vertical Centering In CSS](https://www.smashingmagazine.com/2013/08/absolute-horizontal-vertical-centering-css/)
 - [Absolute Centering](http://codepen.io/libill/full/vmYRZK/)
+- [如何优雅的选择默认字体(font-family)](http://www.imooc.com/article/11261#)
 
 ### 框架
 + AngularJs
@@ -41,6 +42,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [webpack-howto](https://github.com/petehunt/webpack-howto#5-stylesheets-and-images)
 - [值得订阅的 12 份优质前端期刊](https://www.h5jun.com/post/the-12-best-weekly.html)
 - [eslint-pre-commit做代码检查](http://lili21.github.io/2016/05/23/eslint-pre-commit%E5%81%9A%E4%BB%A3%E7%A0%81%E6%A3%80%E6%9F%A5/)
+- [Babel下的ES6兼容性与规范](http://imweb.io/topic/561f9352883ae3ed25e400f5)
 
 ### 其他
 - [近几年前端技术盘点以及 2016 年技术发展方向](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
@@ -59,9 +61,9 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 
 
 + 前端工程
- - [前端工程](https://github.com/fouber/blog/blob/master/201505/01.md)
- - [前端工程——基础篇](https://github.com/fouber/blog/blob/master/201508/01.md#)
- - [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
+	- [前端工程](https://github.com/fouber/blog/blob/master/201505/01.md)
+	- [前端工程——基础篇](https://github.com/fouber/blog/blob/master/201508/01.md#)
+	- [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 
 
 ## 桌面端或浏览器
@@ -89,6 +91,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [Front-End Developer Handbook 2017](https://www.frontendhandbook.com/what-is-a-FD.html)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
 - [javascript-info](http://javascript.info/)
+- [ES6](http://es6.ruanyifeng.com/)
 - [高效能程序员的修炼](http://pan.baidu.com/s/1bo5HnSN)
 - [Docker-从入门到实践](https://yeasy.gitbooks.io/docker_practice/content/introduction/what.html)
 - [build-your-own-angular](http://teropa.info/build-your-own-angular/)
@@ -98,6 +101,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [基于 Gitlab CI 搭建持续集成环境](https://juejin.im/entry/589d39fe0ce46300562ae22e)
 - [用 GitLab CI 进行持续集成](https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/)
 - [git change author info](https://help.github.com/articles/changing-author-info/#platform-windows)
+- [gitlab-ce源码](https://gitlab.com/gitlab-org/gitlab-ce)
 
 ## 入口
 ### 前端
