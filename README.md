@@ -122,6 +122,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [张云龙-个人前端blog](https://github.com/fouber/blog)
 - [xufei-blog](https://github.com/xufei/blog)
 - [前端圈](https://fequan.com/)
+- [InfoQ-前端](http://www.infoq.com/cn/Front-end/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
 
 ### 设计
 - [themeforest](https://themeforest.net/)
