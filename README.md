@@ -77,6 +77,8 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 
 ## http协议及缓存
 - [Caching Tutorial ](https://www.mnot.net/cache_docs/)
+- [浏览器缓存](https://alisa1124.github.io/2017/02/09/cache/)
+- [浏览器缓存知识小结及应用](http://web.jobbole.com/84888/)
 
 ## linux
 - [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
