@@ -43,6 +43,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [值得订阅的 12 份优质前端期刊](https://www.h5jun.com/post/the-12-best-weekly.html)
 - [eslint-pre-commit做代码检查](http://lili21.github.io/2016/05/23/eslint-pre-commit%E5%81%9A%E4%BB%A3%E7%A0%81%E6%A3%80%E6%9F%A5/)
 - [Babel下的ES6兼容性与规范](http://imweb.io/topic/561f9352883ae3ed25e400f5)
+- [Useful extensions for Front-End Developers and Designers](https://medium.com/@vilcins/useful-extensions-for-front-end-developers-and-designers-206aebb9884c)
 
 ### 其他
 - [近几年前端技术盘点以及 2016 年技术发展方向](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
