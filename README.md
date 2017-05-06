@@ -7,7 +7,7 @@
 
 # 近期文章列表
 
-## 前端
+## `前端`
 
 ### 前端技术栈
 - [前端技能汇总 Frontend Knowledge Structure](https://github.com/JacksonTian/fks)
@@ -67,30 +67,30 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 	- [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 
 
-## 桌面端或浏览器
+## `桌面端或浏览器`
 - [How to View the Source Code of a Chrome Extension](https://www.howtogeek.com/198964/how-to-view-the-source-code-of-a-chrome-extension/)
 
-## 移动端
+## `移动端`
 
 ### 小程序
 - [微信小程序开发资源汇总](https://github.com/justjavac/awesome-wechat-weapp)
 - [微信小应用资源汇总整理](https://github.com/Aufree/awesome-wechat-weapp)
 
-## http协议及缓存
+## `http协议及缓存`
 - [Caching Tutorial ](https://www.mnot.net/cache_docs/)
 - [浏览器缓存](https://alisa1124.github.io/2017/02/09/cache/)
 - [浏览器缓存知识小结及应用](http://web.jobbole.com/84888/)
 
-## linux
+## `linux`
 - [Shell脚本编程30分钟入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)
 
-## 设计
+## `设计`
 
 ### 经验
 - [13个提高「进度条」用户体验的设计技巧](http://www.uisdc.com/improve-progress-bar-ux-design)
 - [人气推荐：30枚飙升你创造力的网页设计](http://www.uisdc.com/30-websites-large-background)
 
-## 书籍
+## `书籍`
 - [Front-End Developer Handbook 2017](https://www.frontendhandbook.com/what-is-a-FD.html)
 - [Learning JavaScript Design Patterns](https://addyosmani.com/resources/essentialjsdesignpatterns/book/#revealingmodulepatternjavascript)
 - [javascript-info](http://javascript.info/)
@@ -100,13 +100,13 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [build-your-own-angular](http://teropa.info/build-your-own-angular/)
 - [Web Component Architecture & Development with AngularJS](https://leanpub.com/web-component-development-with-angularjs/read)
 
-## 其他
+## `其他`
 - [基于 Gitlab CI 搭建持续集成环境](https://juejin.im/entry/589d39fe0ce46300562ae22e)
 - [用 GitLab CI 进行持续集成](https://scarletsky.github.io/2016/07/29/use-gitlab-ci-for-continuous-integration/)
 - [git change author info](https://help.github.com/articles/changing-author-info/#platform-windows)
 - [gitlab-ce源码](https://gitlab.com/gitlab-org/gitlab-ce)
 
-## 入口
+## `入口`
 ### 前端
 - [互联网时代前端"手工艺人"的百宝箱](https://github.com/f2e-journey/treasure)
 - [You-Dont-Know-JS
