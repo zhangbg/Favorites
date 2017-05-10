@@ -44,11 +44,13 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [eslint-pre-commit做代码检查](http://lili21.github.io/2016/05/23/eslint-pre-commit%E5%81%9A%E4%BB%A3%E7%A0%81%E6%A3%80%E6%9F%A5/)
 - [Babel下的ES6兼容性与规范](http://imweb.io/topic/561f9352883ae3ed25e400f5)
 - [Useful extensions for Front-End Developers and Designers](https://medium.com/@vilcins/useful-extensions-for-front-end-developers-and-designers-206aebb9884c)
+- [Twelve Fancy Chrome DevTools Tips](https://hackernoon.com/twelve-fancy-chrome-devtools-tips-dc1e39d10d9d)
 
 ### 其他
 - [近几年前端技术盘点以及 2016 年技术发展方向](http://taobaofed.org/blog/2016/01/04/font-end-tech-inventory/)
 - [js-interview-review(面试)](https://github.com/adam-s/js-interview-review)
 - [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks)
+- [The most popular Front-End links of 2016](https://medium.com/statuscode/the-most-popular-front-end-links-of-2016-35d3142ac398)
 
 ### 深度阅读
 + 组件化
@@ -131,6 +133,10 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [前端圈](https://fequan.com/)
 - [InfoQ-前端](http://www.infoq.com/cn/Front-end/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
 
+### 博客
+- [medium](https://medium.com/)
+- [hackernoon](https://hackernoon.com/)
+
 ### 设计
 - [themeforest](https://themeforest.net/)
 - [UI中国](http://www.ui.cn/)
@@ -141,5 +147,4 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [全面了解Docker](https://github.com/DeanXu/Docker-introduce/blob/master/README.md)
 
 ### 好文&闲逛
-- [medium](https://medium.com/)
 - [我为什么鼓励工程师写博客](http://blog.jobbole.com/110769/)
