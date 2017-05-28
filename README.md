@@ -132,6 +132,12 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 - [xufei-blog](https://github.com/xufei/blog)
 - [前端圈](https://fequan.com/)
 - [InfoQ-前端](http://www.infoq.com/cn/Front-end/?utm_source=infoq&utm_medium=header_graybar&utm_campaign=topic_clk)
+- [hackernoon-javascript](https://hackernoon.com/javascript/home)
+- [DDFE，源码分析](https://github.com/DDFE/DDFE-blog)
+- [teahour, 技术电台](http://teahour.fm/)
+
+### 前端团队
+- [如何打造公司级公共前端团队](https://github.com/DDFE/DDFE-blog/issues/2)
 
 ### 博客
 - [medium](https://medium.com/)
