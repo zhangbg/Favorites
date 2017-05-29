@@ -68,6 +68,13 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 	- [前端工程——基础篇](https://github.com/fouber/blog/blob/master/201508/01.md#)
 	- [大公司里怎样开发和部署前端代码？](https://github.com/fouber/blog/issues/6)
 
++ FLux
+	- [Flux 架构模式](https://github.com/wangning0/Autumn_Ning_Blog/blob/master/blogs/2016-1-3/flux/readme.md)
+
+### 未来趋势
++ 2016
+	-[2016前端探索总结——前端工程与未来](https://zhuanlan.zhihu.com/p/24816955)
+
 
 ## `桌面端或浏览器`
 - [How to View the Source Code of a Chrome Extension](https://www.howtogeek.com/198964/how-to-view-the-source-code-of-a-chrome-extension/)
@@ -91,6 +98,7 @@ Every JavaScript Developer Should Know](https://medium.com/javascript-scene/10-i
 ### 经验
 - [13个提高「进度条」用户体验的设计技巧](http://www.uisdc.com/improve-progress-bar-ux-design)
 - [人气推荐：30枚飙升你创造力的网页设计](http://www.uisdc.com/30-websites-large-background)
+- [乐观派UI真实的谎言](http://colachan.com/post/3531)
 
 ## `书籍`
 - [Front-End Developer Handbook 2017](https://www.frontendhandbook.com/what-is-a-FD.html)
